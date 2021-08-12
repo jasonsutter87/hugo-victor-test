@@ -1,0 +1,3 @@
+---
+coin: Do the thing
+---
